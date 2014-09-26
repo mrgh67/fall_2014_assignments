@@ -1,5 +1,0 @@
-Robert Cunningham, Disaster Recovery Program Manager: Staten Island at New York Cares
-use Excel for most data analysis, but have fiddled with Python
-would like to determine which variables predict how engaged a volunteer becomes
-LinkedIn: www.linkedin.com/in/robertpcunningham
-Data Science article: http://bits.blogs.nytimes.com/2014/04/21/inbloom-student-data-repository-to-close/?_php=true&_type=blogs&_r=0
